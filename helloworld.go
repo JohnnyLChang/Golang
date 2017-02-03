@@ -39,5 +39,6 @@ func main() {
 	testSlice()
 	fmt.Println("fibo recrusive:", fibonacciRecursive(10))
 	fmt.Println("fibo recrusive:", fibonacci(10))
+	fmt.Println("test finished")
 	return
 }
